@@ -1,0 +1,27 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = T3xMUUTO Agence
+
+## Skin
+
+### Label
+label4056.text = T3xMUUTO Agence
+
+## Media
+
+### Title
+panorama_F84265EE_ED1E_EEF0_41E7_A9D28399683C.label = T3xMUUTO Vue 4
+panorama_FAA6DB9B_ECEE_A5EC_41EC_E3BF5DDCBA87.label = T3xMUUTO Vue 3
+panorama_FBE2592D_ECEE_E527_41E8_96D516D02422.label = T3xMUUTO Vue 1
+panorama_FD9DF061_ED77_553F_41AC_838291184160.label = T3xMUUTO Vue 2
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture
